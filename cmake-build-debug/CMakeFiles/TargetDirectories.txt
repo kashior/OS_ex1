@@ -1,0 +1,3 @@
+/Users/orkashi/Desktop/Third Year/CS/OS/OS_ex1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/orkashi/Desktop/Third Year/CS/OS/OS_ex1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/orkashi/Desktop/Third Year/CS/OS/OS_ex1/cmake-build-debug/CMakeFiles/OS_ex1.dir
